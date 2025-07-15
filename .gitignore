@@ -1,0 +1,6 @@
+tms_env/
+__pycache__/
+.env
+docker/
+docker-compose.yml
+Dockerfile
